@@ -120,7 +120,7 @@ task.spawn(function()
 			else
 				loader:Destroy()
 				print("Ranxware V2 | Removing loader...")
-				getgenv().RanxwareV2Loaded = false
+				getgenv().RanxwareV2Loaded = nil
 			end
 		end)
 		supported.Active = true
