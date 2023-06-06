@@ -13,6 +13,7 @@
 * 2/23/23 - [Third version was broken lol] v3.1 (bug fixes)
 * 2/24/23 - Visual updates/fixes; movement fixes; free-move
 * 3/9/23 - Visual fixes; coin-collect alive check policy; replaced anti-highcontrast w/ anti-colorchange [vhs and deepfry not included]
+* 6/4/23 - RANXWARE V2 IS SCRAPPED!!
 
 ]]
 
