@@ -1,5 +1,7 @@
 # Ranxware Hub V2
 
+**NOTICE:** THIS PROJECT IS SCRAPPED AND WILL PROBABLY BE NO LONGER WORKED ON!!
+
 Source loader:
 
 ```lua
