@@ -1,3 +1,5 @@
+-- THIS SOURCE IS SCRAPPED AND WILL BE REMOVED SHORTLY
+
 local ts = game:GetService("TweenService")
 local placeid = game.PlaceId
 local unsupported = false
