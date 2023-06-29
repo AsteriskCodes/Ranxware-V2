@@ -1,13 +1,5 @@
 # Ranxware Hub V2
 
-**NOTICE:** THIS PROJECT IS CANCELLED AND WILL PROBABLY BE NO LONGER WORKED ON!!
+**WE HAVE SWITCHED REPOSITORIES! GO CHECK [THIS](https://github.com) REPOSITORY INSTEAD!!**
 
-Source loader:
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AsteriskCodes/Ranxware-V2/main/source.lua"))()
-```
-
-Current supported games:
-
-* Untitled Tag Game
+We introduce to you, Ranxware V2: Restored!!
